@@ -53,5 +53,5 @@
 
 [submodule "OCA/product-attribute"]
 	path = OCA/product-attribute
-	url = git@github.com:OCA/product-attribute.git
+	url = git@github.com:ovnicraft/product-attribute.git
 	branch = 10.0
